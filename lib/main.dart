@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:jc_music_app_flutter/Models/playlist_provider.dart';
-import 'package:jc_music_app_flutter/Pages/home_page.dart';
-import 'package:jc_music_app_flutter/Themes/dark_mode.dart';
-import 'package:jc_music_app_flutter/Themes/light_mode.dart';
 import 'package:jc_music_app_flutter/Themes/theme_provider.dart';
 import 'package:jc_music_app_flutter/splash_screen.dart';
 import 'package:provider/provider.dart';
